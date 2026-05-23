@@ -6,13 +6,8 @@ A full-stack cybersecurity web application that analyzes password strength based
 
 ## 🚀 Live Demo
 
-🌐 Live Website: [Add Your Live Deployment Link Here]
+🌐 Live Website: https://password-strength-analyzer-7ad0.onrender.com/
 
-Example:
-
-```text
-https://yourproject.pythonanywhere.com
-```
 
 ---
 
@@ -76,7 +71,7 @@ password-strength-analyzer/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
+git clone https://github.com/dhanyasreegopinigari-blue/password-strength-analyzer.git
 ```
 
 ---
@@ -124,20 +119,6 @@ This project can be deployed on:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-Add screenshot here later.
-
-Example:
-
-```md
-![Home Page](screenshots/home.png)
-```
-
----
-
 ## 🔒 Security Features
 
 - SHA-256 password hashing
@@ -171,13 +152,14 @@ Fork the repository and create a pull request.
 ## 📞 Contact
 
 ### Developer
-Your Name
+Gopinigari Dhanya sree
 
 ### GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/dhanyasreegopinigari-blue/
 
 ### LinkedIn
-Add your LinkedIn profile link
+
+https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/
 
 ---
 
