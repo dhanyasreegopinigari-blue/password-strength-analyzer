@@ -10,7 +10,11 @@ A full-stack cybersecurity web application that analyzes password strength based
 
 
 ---
+##Screenshots✨
+[Dashboard]
+<img width="1080" height="2261" alt="password strength analyzer image" src="https://github.com/user-attachments/assets/3383eb30-f001-4aec-b2d7-4377d3617b15" />
 
+---
 ## 📌 Features
 
 ✅ Password strength analysis  
@@ -23,7 +27,7 @@ A full-stack cybersecurity web application that analyzes password strength based
 ✅ Responsive modern UI  
 ✅ Full-stack Flask web application  
 
----
+--
 
 ## 🛠️ Tech Stack
 
